@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @number1digital
 - 👀 I’m interested in being full-stack developer
 - 🌱 I’m currently learning Learning HTML5, CSS3, JavaScript, React, Git
-- 💞️ I’m looking to collaborate on Static Websites Development or Front-end projects with HTML5, CSS3, JS as coding languages
+- 💞️ I’m looking to collaborate on Static Websites Development or Front-end projects with HTML5, CSS3, JS, React as coding languages using Git
 - 📫 How to reach me visit my LinkedIn: https://www.linkedin.com/in/best-digital-marketing-expert/
 
 <!---
